@@ -88,3 +88,5 @@ git merge conflict
 Строка Vladimir
 
 Строка Vladimir_1
+
+Строчка Vladimir_2
